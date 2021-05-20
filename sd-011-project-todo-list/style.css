@@ -1,0 +1,26 @@
+.completed {
+  text-decoration: line-through solid black;
+}
+
+* {
+  font-family: Poppins;
+}
+
+header {
+  font-size: larger;
+  margin-left: 40px;
+  margin-top: 50px;
+}
+
+input {
+  display: block;
+  margin-bottom: 20px;
+  margin-left: 70px;
+}
+
+button {
+  font-size: larger;
+  background-color: aliceblue;
+  margin-left: 30px;
+  border-style: groove;
+}
